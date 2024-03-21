@@ -1,6 +1,6 @@
 ### Hello there 👋🏼
 
-Currently a Computational & Systems Biology PhD graduate student [@WUSTL](https://dbbs.wustl.edu/programs/computational-system-biology/)
+I'm Caelan Miller, a current Computational & Systems Biology PhD graduate student [@WUSTL](https://dbbs.wustl.edu/programs/computational-system-biology/)
 
 Interested in:
 
