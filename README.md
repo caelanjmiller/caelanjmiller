@@ -9,6 +9,6 @@ Interested in:
 
 <br>
 
-<img src="https://github-readme-stats-delta-self-14.vercel.app/api?username=caelanjmiller&count_private=true&include_all_commits=true&theme=dracula&show_icons=true&rank_icon=github" width="45%"></img> 
+<img src="https://github-readme-stats-delta-self-14.vercel.app/api?username=caelanjmiller&exclude_repo=Algorithms-CSE-587A&count_private=true&include_all_commits=true&theme=dracula&show_icons=true&rank_icon=github" width="45%"></img> 
 
 <img src="https://github-readme-stats-delta-self-14.vercel.app/api/top-langs/?username=caelanjmiller&layout=donut&theme=dracula" width="45%"></img>
