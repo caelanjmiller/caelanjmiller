@@ -1,6 +1,6 @@
 ### Hello there 👋🏼
 
-I'm **Caelan Miller**, a current Computational & Systems Biology PhD Candidate [@WUSTL](https://dbbs.wustl.edu/programs/computational-system-biology/) in the [Dantas Lab](https://dantaslab.wustl.edu/) 🦠💊
+I'm **Caelan Miller**, a current **Computational & Systems Biology PhD Candidate** [@WUSTL](https://dbbs.wustl.edu/programs/computational-system-biology/) in the [Dantas Lab](https://dantaslab.wustl.edu/) 🦠💊
 
 I develop reproducible computational pipelines, manage lab HPC infrastructure, and build Python tools for microbial genomic analyses. I'm also pursuing **AAS in Network Security Engineering & Cybersecurity** to complement my computational work.
 
@@ -24,7 +24,7 @@ I develop reproducible computational pipelines, manage lab HPC infrastructure, a
 ### 🧑🏽‍💻 Languages 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Bash](https://img.shields.io/badge/Bash-grey?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 ### ⚙️ Infrastructure & HPC
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
